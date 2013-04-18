@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/129800/trunk/webtest/lib
+END
+taskdef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/29226/trunk/webtest/lib/taskdef.xml
+END
+classpath.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/29226/trunk/webtest/lib/classpath.xml
+END
+ant-launcher-1.8.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/129800/trunk/webtest/lib/ant-launcher-1.8.4.jar
+END
+ant-1.8.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/129800/trunk/webtest/lib/ant-1.8.4.jar
+END
+useWebTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/29226/trunk/webtest/lib/useWebTest.xml
+END
+ant-junit-1.8.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/129800/trunk/webtest/lib/ant-junit-1.8.4.jar
+END
+jars.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/10952/trunk/webtest/lib/jars.txt
+END

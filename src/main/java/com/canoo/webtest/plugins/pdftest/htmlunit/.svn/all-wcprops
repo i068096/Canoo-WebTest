@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/102243/trunk/webtest/src/main/java/com/canoo/webtest/plugins/pdftest/htmlunit
+END
+PDFBookmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/102193/trunk/webtest/src/main/java/com/canoo/webtest/plugins/pdftest/htmlunit/PDFBookmark.java
+END
+PDFFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/26562/trunk/webtest/src/main/java/com/canoo/webtest/plugins/pdftest/htmlunit/PDFFont.java
+END
+PDFInvalidPasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/26562/trunk/webtest/src/main/java/com/canoo/webtest/plugins/pdftest/htmlunit/PDFInvalidPasswordException.java
+END
+PDFPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/102193/trunk/webtest/src/main/java/com/canoo/webtest/plugins/pdftest/htmlunit/PDFPage.java
+END
+PDFLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/26562/trunk/webtest/src/main/java/com/canoo/webtest/plugins/pdftest/htmlunit/PDFLink.java
+END
+PDFEncryptionPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/102193/trunk/webtest/src/main/java/com/canoo/webtest/plugins/pdftest/htmlunit/PDFEncryptionPermission.java
+END
+PDFField.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/26562/trunk/webtest/src/main/java/com/canoo/webtest/plugins/pdftest/htmlunit/PDFField.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/26562/trunk/webtest/src/main/java/com/canoo/webtest/plugins/pdftest/htmlunit/package.html
+END

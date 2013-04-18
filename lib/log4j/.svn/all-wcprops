@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/10952/trunk/webtest/lib/log4j
+END
+log4j.selftest_jetty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/10952/trunk/webtest/lib/log4j/log4j.selftest_jetty.xml
+END
+log4j.junit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/10952/trunk/webtest/lib/log4j/log4j.junit.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/10952/trunk/webtest/lib/log4j/log4j.properties
+END

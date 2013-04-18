@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/91914/trunk/webtest/src/test/java/com/canoo/webtest/self
+END
+FailStepStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/FailStepStub.java
+END
+CertificateSnoopServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/CertificateSnoopServlet.java
+END
+SoapSimulatorServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/SoapSimulatorServlet.java
+END
+FormTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/51707/trunk/webtest/src/test/java/com/canoo/webtest/self/FormTestServlet.java
+END
+VerifyParameterErrorStepStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/VerifyParameterErrorStepStub.java
+END
+StepStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/45020/trunk/webtest/src/test/java/com/canoo/webtest/self/StepStub.java
+END
+CollectingBuildListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/CollectingBuildListenerTest.java
+END
+CollectingBuildListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/CollectingBuildListener.java
+END
+LogCatchingTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/LogCatchingTestCase.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/package.html
+END
+ContextStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/51707/trunk/webtest/src/test/java/com/canoo/webtest/self/ContextStub.java
+END
+AntTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/AntTest.java
+END
+ErrorStepStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/ErrorStepStub.java
+END
+ThrowAssert.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/ThrowAssert.java
+END
+BufferingAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/91914/trunk/webtest/src/test/java/com/canoo/webtest/self/BufferingAppender.java
+END
+WebResponseStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/45020/trunk/webtest/src/test/java/com/canoo/webtest/self/WebResponseStub.java
+END
+TestBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/TestBlock.java
+END
+WebResponseStubTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/self/WebResponseStubTest.java
+END

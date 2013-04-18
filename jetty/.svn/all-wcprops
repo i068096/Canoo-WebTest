@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/74642/trunk/webtest/jetty
+END
+stop.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/8901/trunk/webtest/jetty/stop.jar
+END
+keystore
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/9132/trunk/webtest/jetty/keystore
+END
+start.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/8901/trunk/webtest/jetty/start.jar
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/10952/trunk/webtest/jetty/pom.xml
+END
+jetty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/74642/trunk/webtest/jetty/jetty.xml
+END

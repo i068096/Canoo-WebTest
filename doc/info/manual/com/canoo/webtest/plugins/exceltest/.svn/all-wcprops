@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10383/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/exceltest
+END
+ExcelFindRow-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10153/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/exceltest/ExcelFindRow-syntax-post.xml
+END
+ExcelSelectSheet-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10153/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/exceltest/ExcelSelectSheet-syntax-post.xml
+END
+ExcelStoreCellValue-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/10383/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/exceltest/ExcelStoreCellValue-syntax-post.xml
+END
+ExcelVerifyCellSum-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10153/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/exceltest/ExcelVerifyCellSum-syntax-post.xml
+END
+ExcelVerifyCellValue-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10153/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/exceltest/ExcelVerifyCellValue-syntax-post.xml
+END
+ExcelVerifyCellStyle-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10153/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/exceltest/ExcelVerifyCellStyle-syntax-post.xml
+END
+ExcelStructureFilter-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10153/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/exceltest/ExcelStructureFilter-syntax-post.xml
+END

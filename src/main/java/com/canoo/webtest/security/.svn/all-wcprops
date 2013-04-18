@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/125172/trunk/webtest/src/main/java/com/canoo/webtest/security
+END
+SunJsseClientAuthConnectionInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/125172/trunk/webtest/src/main/java/com/canoo/webtest/security/SunJsseClientAuthConnectionInitializer.java
+END
+SecurityConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/125172/trunk/webtest/src/main/java/com/canoo/webtest/security/SecurityConstants.java
+END
+ConnectionInitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/security/ConnectionInitializationException.java
+END
+AbstractConnectionInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/security/AbstractConnectionInitializer.java
+END
+SunJsseBaseConnectionInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/125172/trunk/webtest/src/main/java/com/canoo/webtest/security/SunJsseBaseConnectionInitializer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/security/package.html
+END

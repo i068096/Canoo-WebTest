@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/125172/trunk/webtest/src/test/resources
+END
+user.p12
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/125172/trunk/webtest/src/test/resources/user.p12
+END
+testDocPermissionsNoPrint.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/62809/trunk/webtest/src/test/resources/testDocPermissionsNoPrint.pdf
+END
+testDocUtf16.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/26903/trunk/webtest/src/test/resources/testDocUtf16.pdf
+END
+testDocForms.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/26903/trunk/webtest/src/test/resources/testDocForms.pdf
+END
+testExcel.xls
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/16276/trunk/webtest/src/test/resources/testExcel.xls
+END
+testDocBookmarks.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/102192/trunk/webtest/src/test/resources/testDocBookmarks.pdf
+END
+minimal.xls
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/16276/trunk/webtest/src/test/resources/minimal.xls
+END
+testDocFormsSecure.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/26903/trunk/webtest/src/test/resources/testDocFormsSecure.pdf
+END
+testDocLinks.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/102192/trunk/webtest/src/test/resources/testDocLinks.pdf
+END

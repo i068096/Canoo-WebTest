@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/93580/trunk/webtest/src/main/java/com/canoo/webtest/steps/store
+END
+StoreXPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/45020/trunk/webtest/src/main/java/com/canoo/webtest/steps/store/StoreXPath.java
+END
+BaseStoreStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/91860/trunk/webtest/src/main/java/com/canoo/webtest/steps/store/BaseStoreStep.java
+END
+StoreRegExMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/steps/store/StoreRegExMatch.java
+END
+StoreHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/steps/store/StoreHeader.java
+END
+StoreCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/93580/trunk/webtest/src/main/java/com/canoo/webtest/steps/store/StoreCookie.java
+END
+StorePropertyStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/74111/trunk/webtest/src/main/java/com/canoo/webtest/steps/store/StorePropertyStep.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/steps/store/package.html
+END

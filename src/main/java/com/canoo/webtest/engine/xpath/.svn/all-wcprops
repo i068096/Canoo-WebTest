@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/62731/trunk/webtest/src/main/java/com/canoo/webtest/engine/xpath
+END
+PrefixResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/52839/trunk/webtest/src/main/java/com/canoo/webtest/engine/xpath/PrefixResolver.java
+END
+XPathHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/62731/trunk/webtest/src/main/java/com/canoo/webtest/engine/xpath/XPathHelper.java
+END
+SimpleXPathFunctionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/45020/trunk/webtest/src/main/java/com/canoo/webtest/engine/xpath/SimpleXPathFunctionResolver.java
+END
+SimpleXPathVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/45020/trunk/webtest/src/main/java/com/canoo/webtest/engine/xpath/SimpleXPathVariableResolver.java
+END
+MatchesFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/45020/trunk/webtest/src/main/java/com/canoo/webtest/engine/xpath/MatchesFunction.java
+END
+SimpleNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/45020/trunk/webtest/src/main/java/com/canoo/webtest/engine/xpath/SimpleNamespaceContext.java
+END
+CleanTextFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/45020/trunk/webtest/src/main/java/com/canoo/webtest/engine/xpath/CleanTextFunction.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/engine/xpath/package.html
+END

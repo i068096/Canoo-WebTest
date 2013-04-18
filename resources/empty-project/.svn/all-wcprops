@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/125172/trunk/webtest/resources/empty-project
+END
+definitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/26246/trunk/webtest/resources/empty-project/definitions.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28638/trunk/webtest/resources/empty-project/build.xml
+END

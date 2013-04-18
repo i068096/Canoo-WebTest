@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/102172/trunk/webtest/src/main/java/com/canoo/webtest/reporting
+END
+ReportCreationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/reporting/ReportCreationException.java
+END
+XmlReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/29226/trunk/webtest/src/main/java/com/canoo/webtest/reporting/XmlReporter.java
+END
+StepExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/93580/trunk/webtest/src/main/java/com/canoo/webtest/reporting/StepExecutionListener.java
+END
+XmlResultConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/102172/trunk/webtest/src/main/java/com/canoo/webtest/reporting/XmlResultConverter.java
+END
+IStepResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/16214/trunk/webtest/src/main/java/com/canoo/webtest/reporting/IStepResultListener.java
+END
+IResultReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/reporting/IResultReporter.java
+END
+StepResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/102172/trunk/webtest/src/main/java/com/canoo/webtest/reporting/StepResult.java
+END
+HTMLReportGenerator.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/74515/trunk/webtest/src/main/java/com/canoo/webtest/reporting/HTMLReportGenerator.groovy
+END
+PlainTextReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/29226/trunk/webtest/src/main/java/com/canoo/webtest/reporting/PlainTextReporter.java
+END
+RootStepResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/71098/trunk/webtest/src/main/java/com/canoo/webtest/reporting/RootStepResult.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/reporting/package.html
+END

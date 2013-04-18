@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10078/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/emailtest
+END
+EmailSetConfig-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10078/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/emailtest/EmailSetConfig-syntax-post.xml
+END
+EmailStoreMessageType-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/10078/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/emailtest/EmailStoreMessageType-syntax-post.xml
+END
+EmailStorePartFilename-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10078/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/emailtest/EmailStorePartFilename-syntax-post.xml
+END
+EmailMessageContentFilter-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/10078/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/emailtest/EmailMessageContentFilter-syntax-post.xml
+END
+EmailStoreHeader-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10078/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/emailtest/EmailStoreHeader-syntax-post.xml
+END
+EmailDeleteMessage-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10078/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/emailtest/EmailDeleteMessage-syntax-post.xml
+END
+EmailStoreMessageCount-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10078/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/emailtest/EmailStoreMessageCount-syntax-post.xml
+END
+EmailMessageStructureFilter-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/10078/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/emailtest/EmailMessageStructureFilter-syntax-post.xml
+END
+EmailStorePartCount-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/10078/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/emailtest/EmailStorePartCount-syntax-post.xml
+END
+EmailStoreMessageId-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/10078/trunk/webtest/doc/info/manual/com/canoo/webtest/plugins/emailtest/EmailStoreMessageId-syntax-post.xml
+END

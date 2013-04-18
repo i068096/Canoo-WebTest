@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/63388/trunk/webtest/src/test/java/com/canoo/webtest/steps/form
+END
+AbstractSetFieldStepTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/63388/trunk/webtest/src/test/java/com/canoo/webtest/steps/form/AbstractSetFieldStepTest.java
+END
+SetFileFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/16192/trunk/webtest/src/test/java/com/canoo/webtest/steps/form/SetFileFieldTest.java
+END
+SetInputFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/51842/trunk/webtest/src/test/java/com/canoo/webtest/steps/form/SetInputFieldTest.java
+END
+SetSelectFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/form/SetSelectFieldTest.java
+END
+SetCheckBoxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/form/SetCheckBoxTest.java
+END
+SelectFormTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/29246/trunk/webtest/src/test/java/com/canoo/webtest/steps/form/SelectFormTest.java
+END
+SetRadionButtonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/51521/trunk/webtest/src/test/java/com/canoo/webtest/steps/form/SetRadionButtonTest.java
+END

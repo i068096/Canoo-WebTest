@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/57409/trunk/webtest/selftests/tests/verifyContent
+END
+expectedDummy.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/expectedDummy.html
+END
+expectedPdfBookmarks.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/expectedPdfBookmarks.txt
+END
+expectedPdfFonts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/expectedPdfFonts.txt
+END
+mimeStructure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/mimeStructure.txt
+END
+expectedDummyRegEx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/26359/trunk/webtest/selftests/tests/verifyContent/expectedDummyRegEx.txt
+END
+uuStructure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/uuStructure.txt
+END
+expectedVisitCount.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/expectedVisitCount.html
+END
+expectedDummyNoTags.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/57409/trunk/webtest/selftests/tests/verifyContent/expectedDummyNoTags.html
+END
+expectedDummyWithMods.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/expectedDummyWithMods.html
+END
+expectedPrime.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/expectedPrime.html
+END
+expectedDummyOnlyTags.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/expectedDummyOnlyTags.html
+END
+plainStructure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/plainStructure.txt
+END
+expectedFibonacci.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/expectedFibonacci.html
+END
+expectedExcelStructure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/expectedExcelStructure.xml
+END
+expectedPdfLinks.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/expectedPdfLinks.txt
+END
+expectedPdfText.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/13146/trunk/webtest/selftests/tests/verifyContent/expectedPdfText.txt
+END

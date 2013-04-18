@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/63388/trunk/webtest/src/test/java/com/canoo/webtest/extension/spider
+END
+PatternVisitorStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/spider/PatternVisitorStrategyTest.java
+END
+SimpleLinksValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/63388/trunk/webtest/src/test/java/com/canoo/webtest/extension/spider/SimpleLinksValidatorTest.java
+END
+SpiderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/63388/trunk/webtest/src/test/java/com/canoo/webtest/extension/spider/SpiderTest.java
+END
+SeparatedValueReporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/spider/SeparatedValueReporterTest.java
+END
+ReportSiteStepTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/spider/ReportSiteStepTest.java
+END

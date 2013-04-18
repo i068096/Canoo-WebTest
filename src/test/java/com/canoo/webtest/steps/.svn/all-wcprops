@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/129828/trunk/webtest/src/test/java/com/canoo/webtest/steps
+END
+AbstractStepContainerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/AbstractStepContainerTest.java
+END
+BaseStepTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/129828/trunk/webtest/src/test/java/com/canoo/webtest/steps/BaseStepTestCase.java
+END
+AbstractBrowserActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28823/trunk/webtest/src/test/java/com/canoo/webtest/steps/AbstractBrowserActionTest.java
+END
+HtmlParserMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/HtmlParserMessageTest.java
+END
+TestInfoStepTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/TestInfoStepTest.java
+END
+StepTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/102191/trunk/webtest/src/test/java/com/canoo/webtest/steps/StepTest.java
+END

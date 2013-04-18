@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/74694/trunk/webtest/selftests/includes
+END
+sharedConfiguration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/74694/trunk/webtest/selftests/includes/sharedConfiguration.xml
+END
+dateAndTime.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/8047/trunk/webtest/selftests/includes/dateAndTime.xml
+END

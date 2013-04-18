@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/29193/trunk/webtest/src/main/java/com/canoo/webtest/extension/dialogs
+END
+AbstractDialogStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/25795/trunk/webtest/src/main/java/com/canoo/webtest/extension/dialogs/AbstractDialogStep.java
+END
+DialogHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/extension/dialogs/DialogHelper.java
+END
+AlertDialogStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/extension/dialogs/AlertDialogStep.java
+END
+VerifyNoDialogs.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/extension/dialogs/VerifyNoDialogs.java
+END
+ExpectDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/extension/dialogs/ExpectDialog.java
+END
+ConfirmDialogStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/extension/dialogs/ConfirmDialogStep.java
+END
+ExpectDialogs.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/29193/trunk/webtest/src/main/java/com/canoo/webtest/extension/dialogs/ExpectDialogs.java
+END
+PromptDialogStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/extension/dialogs/PromptDialogStep.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/extension/dialogs/package.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/129800/trunk/webtest/src/test/java/com/canoo/webtest/reporting
+END
+XmlReporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/reporting/XmlReporterTest.java
+END
+StepExecutionListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/129800/trunk/webtest/src/test/java/com/canoo/webtest/reporting/StepExecutionListenerTest.java
+END
+PlainTextReporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28634/trunk/webtest/src/test/java/com/canoo/webtest/reporting/PlainTextReporterTest.java
+END

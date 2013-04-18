@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/93341/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest
+END
+AbstractSelectStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/93341/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/AbstractSelectStep.java
+END
+EmailStorePartCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/EmailStorePartCount.java
+END
+EmailStoreMessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/EmailStoreMessageType.java
+END
+AbstractStoreStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/AbstractStoreStep.java
+END
+EmailStoreHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/EmailStoreHeader.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/package.html
+END
+EmailDeleteMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/EmailDeleteMessage.java
+END
+AbstractMessageStoreStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/AbstractMessageStoreStep.java
+END
+AbstractEmailFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28943/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/AbstractEmailFilter.java
+END
+EmailStoreMessageCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/EmailStoreMessageCount.java
+END
+EmailMessageStructureFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/EmailMessageStructureFilter.java
+END
+AbstractMessageOperationStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/AbstractMessageOperationStep.java
+END
+EmailStoreMessageId.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/EmailStoreMessageId.java
+END
+EmailHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/EmailHelper.java
+END
+EmailSetConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/EmailSetConfig.java
+END
+EmailConfigInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/EmailConfigInfo.java
+END
+AbstractBaseStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/AbstractBaseStep.java
+END
+ISingleMessageStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/ISingleMessageStep.java
+END
+EmailStorePartFilename.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/EmailStorePartFilename.java
+END
+EmailMessageContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/15793/trunk/webtest/src/main/java/com/canoo/webtest/plugins/emailtest/EmailMessageContentFilter.java
+END

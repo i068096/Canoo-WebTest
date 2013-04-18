@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/filter
+END
+GroupFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/filter/GroupFilter.java
+END
+EmptyFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/filter/EmptyFilter.java
+END
+ITableFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/filter/ITableFilter.java
+END
+FirstEqualsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/filter/FirstEqualsFilter.java
+END
+AllEqualsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/filter/AllEqualsFilter.java
+END
+ATableFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/filter/ATableFilter.java
+END
+AllFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/filter/AllFilter.java
+END

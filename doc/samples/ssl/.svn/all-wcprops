@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/125172/trunk/webtest/doc/samples/ssl
+END
+sslTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/125172/trunk/webtest/doc/samples/ssl/sslTest.xml
+END
+canoo.cer
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/7552/trunk/webtest/doc/samples/ssl/canoo.cer
+END
+howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/7552/trunk/webtest/doc/samples/ssl/howto.txt
+END

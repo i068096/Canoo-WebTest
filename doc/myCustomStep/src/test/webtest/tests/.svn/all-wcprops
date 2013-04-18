@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/74694/trunk/webtest/doc/myCustomStep/src/test/webtest/tests
+END
+customSteps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/74694/trunk/webtest/doc/myCustomStep/src/test/webtest/tests/customSteps.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/29226/trunk/webtest/doc/myCustomStep/src/test/webtest/tests/build.xml
+END

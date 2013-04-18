@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples
+END
+emailStoreMessageIdExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples/emailStoreMessageIdExample.txt
+END
+plainStructure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples/plainStructure.txt
+END
+emailSetConfigExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples/emailSetConfigExample.txt
+END
+emailStoreMessageTypeExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples/emailStoreMessageTypeExample.txt
+END
+emailStorePartFilenameExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples/emailStorePartFilenameExample.txt
+END
+mimeStructure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples/mimeStructure.txt
+END
+emailMessageContentFilterExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples/emailMessageContentFilterExample.txt
+END
+emailStoreHeaderExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples/emailStoreHeaderExample.txt
+END
+uuStructure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples/uuStructure.txt
+END
+emailDeleteMessageExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples/emailDeleteMessageExample.txt
+END
+emailMessageStructureFilterExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples/emailMessageStructureFilterExample.txt
+END
+emailStorePartCountExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10078/trunk/webtest/doc/info/manual/emailexamples/emailStorePartCountExample.txt
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/125172/trunk/webtest/resources/empty-project/definitions
+END
+googleOnWebTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/125172/trunk/webtest/resources/empty-project/definitions/googleOnWebTest.xml
+END
+fillParticipantData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/26246/trunk/webtest/resources/empty-project/definitions/fillParticipantData.xml
+END

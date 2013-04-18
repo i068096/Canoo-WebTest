@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/93580/trunk/webtest/src/test/java/com/canoo/webtest/steps/request
+END
+ClickElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/request/ClickElementTest.java
+END
+ClickButtonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/63410/trunk/webtest/src/test/java/com/canoo/webtest/steps/request/ClickButtonTest.java
+END
+ClickLinkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/29246/trunk/webtest/src/test/java/com/canoo/webtest/steps/request/ClickLinkTest.java
+END
+TargetHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/90390/trunk/webtest/src/test/java/com/canoo/webtest/steps/request/TargetHelperTest.java
+END
+SelectWindowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/51707/trunk/webtest/src/test/java/com/canoo/webtest/steps/request/SelectWindowTest.java
+END
+AbstractTargetActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/93580/trunk/webtest/src/test/java/com/canoo/webtest/steps/request/AbstractTargetActionTest.java
+END
+InvokePageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/90390/trunk/webtest/src/test/java/com/canoo/webtest/steps/request/InvokePageTest.java
+END
+SelectWebClientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/request/SelectWebClientTest.java
+END
+FollowFrameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/93580/trunk/webtest/src/test/java/com/canoo/webtest/steps/request/FollowFrameTest.java
+END

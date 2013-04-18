@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/9999/trunk/webtest/releasetests/data/xml
+END
+logModificationsCC1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logModificationsCC1.xml
+END
+logModificationsCC2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logModificationsCC2.xml
+END
+logWrongDeployNumber.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logWrongDeployNumber.xml
+END
+logOneDeployment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logOneDeployment.xml
+END
+logTestFailed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logTestFailed.xml
+END
+logUnitTestDetails.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logUnitTestDetails.xml
+END
+logNoModifications.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logNoModifications.xml
+END
+ut1Failure.ixml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/ut1Failure.ixml
+END
+logTestError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logTestError.xml
+END
+ut1Error.ixml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/ut1Error.ixml
+END
+logNoTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logNoTests.xml
+END
+logDeployNumberOK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logDeployNumberOK.xml
+END
+logANTErrorWrongDeployNumber.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logANTErrorWrongDeployNumber.xml
+END
+logCompileErrorSmallJavac.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logCompileErrorSmallJavac.xml
+END
+modificationCheckAndUpdate.ixml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/modificationCheckAndUpdate.ixml
+END
+logCompileError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logCompileError.xml
+END
+logLongMessage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logLongMessage.xml
+END
+smallModifications1.ixml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/smallModifications1.ixml
+END
+utOKNoDetail.ixml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/utOKNoDetail.ixml
+END
+log7UTNoFT1ZIP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/log7UTNoFT1ZIP.xml
+END
+smallModifications2.ixml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/smallModifications2.ixml
+END
+logUTokFT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/9836/trunk/webtest/releasetests/data/xml/logUTokFT.xml
+END

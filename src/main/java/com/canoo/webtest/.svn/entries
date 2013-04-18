@@ -1,0 +1,95 @@
+9
+
+dir
+132705
+https://svn.canoo.com/trunk/webtest/src/main/java/com/canoo/webtest
+https://svn.canoo.com
+
+
+
+2013-01-30T10:40:46.643981Z
+130203
+marcG
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965a1bb-6cb7-0310-8377-852612c18608
+
+plugins
+dir
+
+ant
+dir
+
+boundary
+dir
+
+interfaces
+dir
+
+engine
+dir
+
+groovy
+dir
+
+security
+dir
+
+reporting
+dir
+
+extension
+dir
+
+util
+dir
+
+WebtestCase.groovy
+file
+
+
+
+
+2013-04-16T12:57:42.734445Z
+458e46666c56ee3d020840ab2811ebd6
+2010-07-02T13:15:25.341790Z
+90390
+marcG
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4220
+
+steps
+dir
+

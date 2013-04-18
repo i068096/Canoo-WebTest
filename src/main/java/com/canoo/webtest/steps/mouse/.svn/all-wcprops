@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/56541/trunk/webtest/src/main/java/com/canoo/webtest/steps/mouse
+END
+MouseBaseStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/56541/trunk/webtest/src/main/java/com/canoo/webtest/steps/mouse/MouseBaseStep.java
+END
+MouseOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/56541/trunk/webtest/src/main/java/com/canoo/webtest/steps/mouse/MouseOut.java
+END
+MouseOver.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/56541/trunk/webtest/src/main/java/com/canoo/webtest/steps/mouse/MouseOver.java
+END

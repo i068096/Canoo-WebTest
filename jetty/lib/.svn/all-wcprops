@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/8901/trunk/webtest/jetty/lib
+END
+javax.servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/8901/trunk/webtest/jetty/lib/javax.servlet.jar
+END
+org.mortbay.jmx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/8901/trunk/webtest/jetty/lib/org.mortbay.jmx.jar
+END
+org.mortbay.jetty.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/8901/trunk/webtest/jetty/lib/org.mortbay.jetty.jar
+END

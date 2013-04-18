@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/28726/trunk/webtest/doc/xdoclet
+END
+taskdef.xdt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/15465/trunk/webtest/doc/xdoclet/taskdef.xdt
+END
+antlib.xdt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/9974/trunk/webtest/doc/xdoclet/antlib.xdt
+END
+taskdef_strict.xdt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/15465/trunk/webtest/doc/xdoclet/taskdef_strict.xdt
+END
+webtest.xdt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/28726/trunk/webtest/doc/xdoclet/webtest.xdt
+END

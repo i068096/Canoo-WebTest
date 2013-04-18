@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/125273/trunk/webtest/src/test/java/com/canoo/webtest/steps/store
+END
+StoreXPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/45020/trunk/webtest/src/test/java/com/canoo/webtest/steps/store/StoreXPathTest.java
+END
+StoreRegExMatchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/26812/trunk/webtest/src/test/java/com/canoo/webtest/steps/store/StoreRegExMatchTest.java
+END
+StoreHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/store/StoreHeaderTest.java
+END
+StoreCookieTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/125273/trunk/webtest/src/test/java/com/canoo/webtest/steps/store/StoreCookieTest.java
+END
+StorePropertyStepTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/74111/trunk/webtest/src/test/java/com/canoo/webtest/steps/store/StorePropertyStepTest.java
+END

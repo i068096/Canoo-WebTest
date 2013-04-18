@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/129800/trunk/webtest/src/test/java/com/canoo/webtest/engine
+END
+ContextHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/engine/ContextHelperTest.java
+END
+EqualsStringVerfierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/engine/EqualsStringVerfierTest.java
+END
+MimeMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/16225/trunk/webtest/src/test/java/com/canoo/webtest/engine/MimeMapTest.java
+END
+ConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/129800/trunk/webtest/src/test/java/com/canoo/webtest/engine/ConfigurationTest.java
+END
+DefaultWebtestCustomizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/102181/trunk/webtest/src/test/java/com/canoo/webtest/engine/DefaultWebtestCustomizerTest.java
+END
+HeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/engine/HeaderTest.java
+END
+OptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/engine/OptionTest.java
+END
+NameValuePairTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/engine/NameValuePairTest.java
+END
+RegExStringVerifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/engine/RegExStringVerifierTest.java
+END

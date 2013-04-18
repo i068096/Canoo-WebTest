@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/9905/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify
+END
+VerifyProperty-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/9464/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify/VerifyProperty-syntax-post.xml
+END
+VerifyText-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9456/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify/VerifyText-syntax-post.xml
+END
+VerifyXPath-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9464/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify/VerifyXPath-syntax-post.xml
+END
+VerifyXPath-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9460/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify/VerifyXPath-syntax-pre.xml
+END
+VerifyCheckbox-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/9464/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify/VerifyCheckbox-syntax-post.xml
+END
+VerifyCookie-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/9905/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify/VerifyCookie-syntax-post.xml
+END
+VerifyTextArea-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/9456/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify/VerifyTextArea-syntax-post.xml
+END
+VerifyElementText-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/9460/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify/VerifyElementText-syntax-post.xml
+END
+VerifyLinks-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9460/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify/VerifyLinks-syntax-post.xml
+END
+VerifyLinks-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9460/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify/VerifyLinks-syntax-pre.xml
+END
+VerifyTitle-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9456/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify/VerifyTitle-syntax-post.xml
+END
+VerifyHtmlElementNamed-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/9460/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/verify/VerifyHtmlElementNamed-syntax-post.xml
+END

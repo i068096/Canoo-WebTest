@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/102187/trunk/webtest/src/test/java/com/canoo/webtest/engine/xpath
+END
+XPathHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/62727/trunk/webtest/src/test/java/com/canoo/webtest/engine/xpath/XPathHelperTest.java
+END
+MatchesFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/102187/trunk/webtest/src/test/java/com/canoo/webtest/engine/xpath/MatchesFunctionTest.java
+END
+CleanTextFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/45020/trunk/webtest/src/test/java/com/canoo/webtest/engine/xpath/CleanTextFunctionTest.java
+END

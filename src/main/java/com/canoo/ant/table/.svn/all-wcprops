@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/table
+END
+TableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/table/TableFactory.java
+END
+DirectoryPropertyTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/table/DirectoryPropertyTable.java
+END
+IPropertyTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/table/IPropertyTable.java
+END
+APropertyTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/table/APropertyTable.java
+END
+ExcelPropertyTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/56843/trunk/webtest/src/main/java/com/canoo/ant/table/ExcelPropertyTable.java
+END

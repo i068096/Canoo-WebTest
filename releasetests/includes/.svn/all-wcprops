@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/74694/trunk/webtest/releasetests/includes
+END
+commonVerification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/9931/trunk/webtest/releasetests/includes/commonVerification.xml
+END
+sharedConfiguration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/74694/trunk/webtest/releasetests/includes/sharedConfiguration.xml
+END

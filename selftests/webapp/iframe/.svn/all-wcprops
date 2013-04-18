@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/26907/trunk/webtest/selftests/webapp/iframe
+END
+start.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/26907/trunk/webtest/selftests/webapp/iframe/start.html
+END
+childiframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/26907/trunk/webtest/selftests/webapp/iframe/childiframe.html
+END
+parent.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/26907/trunk/webtest/selftests/webapp/iframe/parent.html
+END

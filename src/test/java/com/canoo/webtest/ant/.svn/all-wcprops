@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/129800/trunk/webtest/src/test/java/com/canoo/webtest/ant
+END
+WebtestTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/129800/trunk/webtest/src/test/java/com/canoo/webtest/ant/WebtestTaskTest.java
+END
+WebTestPropertyHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/129800/trunk/webtest/src/test/java/com/canoo/webtest/ant/WebTestPropertyHelperTest.java
+END
+TestStepSequenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/129800/trunk/webtest/src/test/java/com/canoo/webtest/ant/TestStepSequenceTest.java
+END
+CountWebtestResultsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28896/trunk/webtest/src/test/java/com/canoo/webtest/ant/CountWebtestResultsTest.java
+END

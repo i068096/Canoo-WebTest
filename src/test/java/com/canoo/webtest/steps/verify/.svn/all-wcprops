@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/125273/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify
+END
+VerifyLinksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/102224/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifyLinksTest.java
+END
+VerifyTitleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/29246/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifyTitleTest.java
+END
+VerifySelectFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifySelectFieldTest.java
+END
+VerifyXPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/45020/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifyXPathTest.java
+END
+VerifyTextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/29246/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifyTextTest.java
+END
+VerifyPropertyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifyPropertyTest.java
+END
+VerifyCheckboxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/102190/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifyCheckboxTest.java
+END
+AbstractVerifyFormTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/AbstractVerifyFormTest.java
+END
+VerifyHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/102189/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifyHeaderTest.java
+END
+VerifyElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifyElementTest.java
+END
+VerifyRadioButtonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/102190/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifyRadioButtonTest.java
+END
+VerifyElementTextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifyElementTextTest.java
+END
+VerifyInputFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/26643/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifyInputFieldTest.java
+END
+AbstractVerifyTextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/AbstractVerifyTextTest.java
+END
+VerifyCookieTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/125273/trunk/webtest/src/test/java/com/canoo/webtest/steps/verify/VerifyCookieTest.java
+END

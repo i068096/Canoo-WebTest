@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/55735/trunk/webtest/selftests/environment
+END
+selftest.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/8047/trunk/webtest/selftests/environment/selftest.properties
+END
+installation.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/8047/trunk/webtest/selftests/environment/installation.properties
+END

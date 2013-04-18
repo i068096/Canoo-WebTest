@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/16276/trunk/webtest/src/test/resources/runner
+END
+excluded.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/16276/trunk/webtest/src/test/resources/runner/excluded.properties
+END

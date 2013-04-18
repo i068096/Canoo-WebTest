@@ -1,0 +1,74 @@
+9
+
+dir
+132705
+https://svn.canoo.com/trunk/webtest/releasetests
+https://svn.canoo.com
+
+
+
+2009-11-10T11:17:21.980433Z
+74694
+marcG
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965a1bb-6cb7-0310-8377-852612c18608
+
+tests
+dir
+
+config
+dir
+
+includes
+dir
+
+data
+dir
+
+build.xml
+file
+
+
+
+
+2013-04-16T12:58:13.425681Z
+d4427e64a5671d2e8a03a237ce2e0ae2
+2008-05-02T14:52:38.523976Z
+45213
+marcG
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1326
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/63411/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/request
+END
+InvokePage-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9464/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/request/InvokePage-syntax-pre.xml
+END
+FollowFrame-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/9460/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/request/FollowFrame-syntax-post.xml
+END
+ClickElement-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/9487/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/request/ClickElement-syntax-post.xml
+END
+ClickButton-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/9464/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/request/ClickButton-syntax-post.xml
+END
+ClickButton-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/63411/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/request/ClickButton-syntax-pre.xml
+END
+ClickLink-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9405/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/request/ClickLink-syntax-post.xml
+END
+ClickLink-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9836/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/request/ClickLink-syntax-pre.xml
+END
+InvokePage-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9956/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/request/InvokePage-syntax-post.xml
+END

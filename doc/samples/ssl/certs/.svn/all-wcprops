@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/7615/trunk/webtest/doc/samples/ssl/certs
+END
+client.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/7615/trunk/webtest/doc/samples/ssl/certs/client.keystore
+END
+emptyTrust.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/7615/trunk/webtest/doc/samples/ssl/certs/emptyTrust.keystore
+END
+trust.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/7615/trunk/webtest/doc/samples/ssl/certs/trust.keystore
+END
+user1.cer
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7615/trunk/webtest/doc/samples/ssl/certs/user1.cer
+END
+user2.cer
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7615/trunk/webtest/doc/samples/ssl/certs/user2.cer
+END
+user3.cer
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7615/trunk/webtest/doc/samples/ssl/certs/user3.cer
+END
+server.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/7615/trunk/webtest/doc/samples/ssl/certs/server.keystore
+END
+server.cer
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/7615/trunk/webtest/doc/samples/ssl/certs/server.cer
+END

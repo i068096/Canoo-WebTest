@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/dialogs
+END
+DialogHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/dialogs/DialogHelperTest.java
+END
+VerifyNoDialogsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/dialogs/VerifyNoDialogsTest.java
+END
+ExpectDialogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/dialogs/ExpectDialogTest.java
+END
+ExpectDialogsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/dialogs/ExpectDialogsTest.java
+END

@@ -1,0 +1,593 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/125302/trunk/webtest/selftests/tests
+END
+repeat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/26737/trunk/webtest/selftests/tests/repeat.xml
+END
+pdfBookmarks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/16205/trunk/webtest/selftests/tests/pdfBookmarks.xml
+END
+invokePostManualTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/10020/trunk/webtest/selftests/tests/invokePostManualTests.xml
+END
+antWrapper_helper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/10254/trunk/webtest/selftests/tests/antWrapper_helper.xml
+END
+pdfFonts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/16205/trunk/webtest/selftests/tests/pdfFonts.xml
+END
+ajax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/74694/trunk/webtest/selftests/tests/ajax.xml
+END
+description.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/10347/trunk/webtest/selftests/tests/description.xml
+END
+pdfPreviousResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/9974/trunk/webtest/selftests/tests/pdfPreviousResponse.xml
+END
+groovy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/45206/trunk/webtest/selftests/tests/groovy.xml
+END
+GroovyExampleTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/63970/trunk/webtest/selftests/tests/GroovyExampleTest.groovy
+END
+AllTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/90396/trunk/webtest/selftests/tests/AllTests.xml
+END
+store.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/25839/trunk/webtest/selftests/tests/store.xml
+END
+closeWindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25884/trunk/webtest/selftests/tests/closeWindow.xml
+END
+storeRandom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/13494/trunk/webtest/selftests/tests/storeRandom.xml
+END
+setFileField.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/90390/trunk/webtest/selftests/tests/setFileField.xml
+END
+not.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/10239/trunk/webtest/selftests/tests/not.xml
+END
+deprecated.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/13060/trunk/webtest/selftests/tests/deprecated.xml
+END
+redirect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/31062/trunk/webtest/selftests/tests/redirect.xml
+END
+https.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/125302/trunk/webtest/selftests/tests/https.xml
+END
+iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/15067/trunk/webtest/selftests/tests/iframe.xml
+END
+clickLink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/9614/trunk/webtest/selftests/tests/clickLink.xml
+END
+verifyProperty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/13342/trunk/webtest/selftests/tests/verifyProperty.xml
+END
+pdfLinks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/16205/trunk/webtest/selftests/tests/pdfLinks.xml
+END
+storeLinkParameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/9614/trunk/webtest/selftests/tests/storeLinkParameter.xml
+END
+javaScriptError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/80645/trunk/webtest/selftests/tests/javaScriptError.xml
+END
+storeProperty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/74111/trunk/webtest/selftests/tests/storeProperty.txt
+END
+proxy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/102171/trunk/webtest/selftests/tests/proxy.xml
+END
+clickButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/74694/trunk/webtest/selftests/tests/clickButton.xml
+END
+scriptStepManualTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/10237/trunk/webtest/selftests/tests/scriptStepManualTests.xml
+END
+wrappedSteps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/10256/trunk/webtest/selftests/tests/wrappedSteps.xml
+END
+multiplePostsAndPreviousResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/9762/trunk/webtest/selftests/tests/multiplePostsAndPreviousResponse.xml
+END
+verifyElementText.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/51707/trunk/webtest/selftests/tests/verifyElementText.xml
+END
+verifyDocumentURL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/74694/trunk/webtest/selftests/tests/verifyDocumentURL.xml
+END
+verifyLinkedContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/13027/trunk/webtest/selftests/tests/verifyLinkedContent.xml
+END
+httpResponseCode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/29226/trunk/webtest/selftests/tests/httpResponseCode.xml
+END
+storeElementAttribute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/16285/trunk/webtest/selftests/tests/storeElementAttribute.xml
+END
+newFormSteps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/10377/trunk/webtest/selftests/tests/newFormSteps.xml
+END
+group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/9614/trunk/webtest/selftests/tests/group.xml
+END
+sampleUse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28541/trunk/webtest/selftests/tests/sampleUse.xml
+END
+storeLength.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/48855/trunk/webtest/selftests/tests/storeLength.xml
+END
+clickElement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/72442/trunk/webtest/selftests/tests/clickElement.xml
+END
+scriptStep.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/71346/trunk/webtest/selftests/tests/scriptStep.xml
+END
+reportSite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/29226/trunk/webtest/selftests/tests/reportSite.xml
+END
+AustralianPostcodeByLocationRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/9956/trunk/webtest/selftests/tests/AustralianPostcodeByLocationRequest.xml
+END
+storeProperty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/74111/trunk/webtest/selftests/tests/storeProperty.xml
+END
+selectForm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/9614/trunk/webtest/selftests/tests/selectForm.xml
+END
+retry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/15466/trunk/webtest/selftests/tests/retry.xml
+END
+javascript.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/74694/trunk/webtest/selftests/tests/javascript.xml
+END
+autoSubmitExample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/74694/trunk/webtest/selftests/tests/autoSubmitExample.xml
+END
+emailManualTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/74694/trunk/webtest/selftests/tests/emailManualTests.xml
+END
+cookie.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/74694/trunk/webtest/selftests/tests/cookie.xml
+END
+verifyXPath.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/69669/trunk/webtest/selftests/tests/verifyXPath.xml
+END
+tableLocator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/26497/trunk/webtest/selftests/tests/tableLocator.xml
+END
+GMacroSteps.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/56804/trunk/webtest/selftests/tests/GMacroSteps.groovy
+END
+config_autorefresh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/31062/trunk/webtest/selftests/tests/config_autorefresh.xml
+END
+applyFilters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/74694/trunk/webtest/selftests/tests/applyFilters.xml
+END
+verifyElement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/9614/trunk/webtest/selftests/tests/verifyElement.xml
+END
+problemCases.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/9614/trunk/webtest/selftests/tests/problemCases.xml
+END
+appletRunner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/45205/trunk/webtest/selftests/tests/appletRunner.xml
+END
+timedGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/9951/trunk/webtest/selftests/tests/timedGroup.xml
+END
+antWrapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/74694/trunk/webtest/selftests/tests/antWrapper.xml
+END
+radioButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/16096/trunk/webtest/selftests/tests/radioButton.xml
+END
+ifstep.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/32486/trunk/webtest/selftests/tests/ifstep.xml
+END
+forceHiddenInputField.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/51754/trunk/webtest/selftests/tests/forceHiddenInputField.xml
+END
+verifyContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26383/trunk/webtest/selftests/tests/verifyContent.xml
+END
+excel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/16205/trunk/webtest/selftests/tests/excel.xml
+END
+verifyLinks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/10253/trunk/webtest/selftests/tests/verifyLinks.xml
+END
+requestsCsv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/90396/trunk/webtest/selftests/tests/requestsCsv.txt
+END
+selectWindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/48855/trunk/webtest/selftests/tests/selectWindow.xml
+END
+verifyDialogs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/29193/trunk/webtest/selftests/tests/verifyDialogs.xml
+END
+verifyText.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/15684/trunk/webtest/selftests/tests/verifyText.xml
+END
+verifyCheckbox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/10027/trunk/webtest/selftests/tests/verifyCheckbox.xml
+END
+showI18n.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/9689/trunk/webtest/selftests/tests/showI18n.xml
+END
+SampleUseTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/45212/trunk/webtest/selftests/tests/SampleUseTest.groovy
+END
+dragAndDrop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/35654/trunk/webtest/selftests/tests/dragAndDrop.xml
+END
+requestsCsv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/90396/trunk/webtest/selftests/tests/requestsCsv.xml
+END
+inputFieldAttribute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/11185/trunk/webtest/selftests/tests/inputFieldAttribute.xml
+END
+httpHeader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/74694/trunk/webtest/selftests/tests/httpHeader.xml
+END
+browserVersion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/109464/trunk/webtest/selftests/tests/browserVersion.xml
+END
+verifyImages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/12459/trunk/webtest/selftests/tests/verifyImages.xml
+END
+invoke.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/74694/trunk/webtest/selftests/tests/invoke.xml
+END
+testInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/75267/trunk/webtest/selftests/tests/testInfo.xml
+END
+storeDigest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/9653/trunk/webtest/selftests/tests/storeDigest.xml
+END
+withImplicitConfiguration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/9614/trunk/webtest/selftests/tests/withImplicitConfiguration.xml
+END
+setSelectField.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/10373/trunk/webtest/selftests/tests/setSelectField.xml
+END
+setCheckbox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/9891/trunk/webtest/selftests/tests/setCheckbox.xml
+END
+pdfPermissions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/9974/trunk/webtest/selftests/tests/pdfPermissions.xml
+END
+forceInputFieldAttribute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/11185/trunk/webtest/selftests/tests/forceInputFieldAttribute.xml
+END
+verifyTitle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/9614/trunk/webtest/selftests/tests/verifyTitle.xml
+END
+GScriptedWebtest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/45206/trunk/webtest/selftests/tests/GScriptedWebtest.groovy
+END
+configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/74694/trunk/webtest/selftests/tests/configuration.xml
+END
+reporting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/16128/trunk/webtest/selftests/tests/reporting.xml
+END
+reportLinks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/29226/trunk/webtest/selftests/tests/reportLinks.xml
+END
+selectWebClient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/45555/trunk/webtest/selftests/tests/selectWebClient.xml
+END
+mouseEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/56541/trunk/webtest/selftests/tests/mouseEvents.xml
+END
+followFrame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/11095/trunk/webtest/selftests/tests/followFrame.xml
+END
+pdfText.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/16205/trunk/webtest/selftests/tests/pdfText.xml
+END
+GPrintSampleUsage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/10195/trunk/webtest/selftests/tests/GPrintSampleUsage.groovy
+END

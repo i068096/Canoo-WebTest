@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/25795/trunk/webtest/src/test/java/com/canoo/webtest/plugins/exceltest
+END
+AbstractExcelCellStepTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/plugins/exceltest/AbstractExcelCellStepTest.java
+END
+AbstractExcelStepTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/plugins/exceltest/AbstractExcelStepTest.java
+END
+ExcelVerifyCellValueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/25795/trunk/webtest/src/test/java/com/canoo/webtest/plugins/exceltest/ExcelVerifyCellValueTest.java
+END
+BaseExcelStepTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/plugins/exceltest/BaseExcelStepTestCase.java
+END
+ExcelContextStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/plugins/exceltest/ExcelContextStub.java
+END
+ExcelVerifyCellStyleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/25795/trunk/webtest/src/test/java/com/canoo/webtest/plugins/exceltest/ExcelVerifyCellStyleTest.java
+END
+AbstractExcelSheetStepTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/plugins/exceltest/AbstractExcelSheetStepTest.java
+END
+ExcelFindRowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/plugins/exceltest/ExcelFindRowTest.java
+END
+ExcelSelectSheetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/plugins/exceltest/ExcelSelectSheetTest.java
+END
+ExcelVerifyCellSumTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/25795/trunk/webtest/src/test/java/com/canoo/webtest/plugins/exceltest/ExcelVerifyCellSumTest.java
+END

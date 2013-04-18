@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/125308/trunk/webtest/selftests
+END
+ajaxtags-1.2-beta2.war
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/12334/trunk/webtest/selftests/ajaxtags-1.2-beta2.war
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/125308/trunk/webtest/selftests/build.xml
+END

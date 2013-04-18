@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/74694/trunk/webtest/releasetests/tests
+END
+deploymentStructure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/74550/trunk/webtest/releasetests/tests/deploymentStructure.xml
+END
+TestSuite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/45213/trunk/webtest/releasetests/tests/TestSuite.xml
+END
+cruiseControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/74694/trunk/webtest/releasetests/tests/cruiseControl.xml
+END

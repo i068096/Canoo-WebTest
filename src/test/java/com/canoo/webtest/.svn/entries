@@ -1,0 +1,58 @@
+9
+
+dir
+132705
+https://svn.canoo.com/trunk/webtest/src/test/java/com/canoo/webtest
+https://svn.canoo.com
+
+
+
+2013-01-18T10:49:33.292829Z
+129828
+marcG
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965a1bb-6cb7-0310-8377-852612c18608
+
+plugins
+dir
+
+ant
+dir
+
+interfaces
+dir
+
+engine
+dir
+
+groovy
+dir
+
+reporting
+dir
+
+self
+dir
+
+extension
+dir
+
+util
+dir
+
+steps
+dir
+

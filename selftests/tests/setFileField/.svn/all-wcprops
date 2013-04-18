@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/26903/trunk/webtest/selftests/tests/setFileField
+END
+webtest.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/26903/trunk/webtest/selftests/tests/setFileField/webtest.png
+END
+testFile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/16192/trunk/webtest/selftests/tests/setFileField/testFile.txt
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/9856/trunk/webtest/doc/info/manual/com/canoo/webtest/extension/dialogs
+END
+ExpectDialog-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/9856/trunk/webtest/doc/info/manual/com/canoo/webtest/extension/dialogs/ExpectDialog-syntax-pre.xml
+END
+ExpectDialogs-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/9856/trunk/webtest/doc/info/manual/com/canoo/webtest/extension/dialogs/ExpectDialogs-syntax-post.xml
+END
+ExpectDialogs-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/9856/trunk/webtest/doc/info/manual/com/canoo/webtest/extension/dialogs/ExpectDialogs-syntax-pre.xml
+END
+VerifyNoDialogs-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/9856/trunk/webtest/doc/info/manual/com/canoo/webtest/extension/dialogs/VerifyNoDialogs-syntax-post.xml
+END
+VerifyNoDialogs-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/9856/trunk/webtest/doc/info/manual/com/canoo/webtest/extension/dialogs/VerifyNoDialogs-syntax-pre.xml
+END
+ExpectDialog-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/9856/trunk/webtest/doc/info/manual/com/canoo/webtest/extension/dialogs/ExpectDialog-syntax-post.xml
+END

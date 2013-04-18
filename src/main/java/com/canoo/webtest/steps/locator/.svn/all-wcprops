@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/93580/trunk/webtest/src/main/java/com/canoo/webtest/steps/locator
+END
+TableNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/steps/locator/TableNotFoundException.java
+END
+TableLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/93580/trunk/webtest/src/main/java/com/canoo/webtest/steps/locator/TableLocator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/steps/locator/package.html
+END

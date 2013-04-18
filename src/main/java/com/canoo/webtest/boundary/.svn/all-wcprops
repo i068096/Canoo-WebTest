@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/90390/trunk/webtest/src/main/java/com/canoo/webtest/boundary
+END
+PackageBoundary.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/boundary/PackageBoundary.java
+END
+StreamBoundary.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/boundary/StreamBoundary.java
+END
+ResetScriptRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/boundary/ResetScriptRunner.java
+END
+FileBoundary.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/26562/trunk/webtest/src/main/java/com/canoo/webtest/boundary/FileBoundary.java
+END
+AntBoundary.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/boundary/AntBoundary.java
+END
+UrlBoundary.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/boundary/UrlBoundary.java
+END
+HtmlUnitBoundary.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/45020/trunk/webtest/src/main/java/com/canoo/webtest/boundary/HtmlUnitBoundary.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/boundary/package.html
+END

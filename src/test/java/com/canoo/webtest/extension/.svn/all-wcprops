@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/102188/trunk/webtest/src/test/java/com/canoo/webtest/extension
+END
+VerifyContentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/26359/trunk/webtest/src/test/java/com/canoo/webtest/extension/VerifyContentTest.java
+END
+ScriptStepTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28333/trunk/webtest/src/test/java/com/canoo/webtest/extension/ScriptStepTest.java
+END
+ResponseFilterTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/ResponseFilterTestCase.java
+END
+VerifyContentRegexPerLineDiffTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/26359/trunk/webtest/src/test/java/com/canoo/webtest/extension/VerifyContentRegexPerLineDiffTest.java
+END
+StoreInputFieldAttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/16285/trunk/webtest/src/test/java/com/canoo/webtest/extension/StoreInputFieldAttributeTest.java
+END
+ForceInputFieldAttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/ForceInputFieldAttributeTest.java
+END
+StoreResponseCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/StoreResponseCodeTest.java
+END
+ContentStripperFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/67711/trunk/webtest/src/test/java/com/canoo/webtest/extension/ContentStripperFilterTest.java
+END
+TagStripperFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/71368/trunk/webtest/src/test/java/com/canoo/webtest/extension/TagStripperFilterTest.java
+END
+StoreLinkParameterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/16285/trunk/webtest/src/test/java/com/canoo/webtest/extension/StoreLinkParameterTest.java
+END
+ReplaceContentFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/ReplaceContentFilterTest.java
+END
+BaseFilterTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/BaseFilterTestCase.java
+END
+EnableJavaScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/EnableJavaScriptTest.java
+END
+ApplyFiltersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/30607/trunk/webtest/src/test/java/com/canoo/webtest/extension/ApplyFiltersTest.java
+END
+LineSeparatorFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/LineSeparatorFilterTest.java
+END
+SelectLinesFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/SelectLinesFilterTest.java
+END
+VerifyContentBinDiffTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/26359/trunk/webtest/src/test/java/com/canoo/webtest/extension/VerifyContentBinDiffTest.java
+END
+VerifyDocumentURLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/29246/trunk/webtest/src/test/java/com/canoo/webtest/extension/VerifyDocumentURLTest.java
+END
+VerifyLinkedContentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/102188/trunk/webtest/src/test/java/com/canoo/webtest/extension/VerifyLinkedContentTest.java
+END
+NormalizeXmlFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/69339/trunk/webtest/src/test/java/com/canoo/webtest/extension/NormalizeXmlFilterTest.java
+END
+MimeTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/102184/trunk/webtest/src/test/java/com/canoo/webtest/extension/MimeTypeTest.java
+END
+StoreElementAttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/45020/trunk/webtest/src/test/java/com/canoo/webtest/extension/StoreElementAttributeTest.java
+END
+StoreDigestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/StoreDigestTest.java
+END
+MatchLinesFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/MatchLinesFilterTest.java
+END
+StoreRandomTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/15828/trunk/webtest/src/test/java/com/canoo/webtest/extension/StoreRandomTest.java
+END
+VerifyContentTextDiffTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/26359/trunk/webtest/src/test/java/com/canoo/webtest/extension/VerifyContentTextDiffTest.java
+END
+ForceHiddenInputFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/63388/trunk/webtest/src/test/java/com/canoo/webtest/extension/ForceHiddenInputFieldTest.java
+END

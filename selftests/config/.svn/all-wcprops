@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/102334/trunk/webtest/selftests/config
+END
+Project.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/33176/trunk/webtest/selftests/config/Project.dtd
+END
+WebTest.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/102334/trunk/webtest/selftests/config/WebTest.dtd
+END
+MyWebTest.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/26907/trunk/webtest/selftests/config/MyWebTest.dtd
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/10383/trunk/webtest/doc/info/manual/excelExamples
+END
+verifyCellStyleExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10151/trunk/webtest/doc/info/manual/excelExamples/verifyCellStyleExample.txt
+END
+structureFilterExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10151/trunk/webtest/doc/info/manual/excelExamples/structureFilterExample.txt
+END
+findRowExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10151/trunk/webtest/doc/info/manual/excelExamples/findRowExample.txt
+END
+selectSheetExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10151/trunk/webtest/doc/info/manual/excelExamples/selectSheetExample.txt
+END
+storeCellValueExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10383/trunk/webtest/doc/info/manual/excelExamples/storeCellValueExample.txt
+END
+verifyCellSumExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10151/trunk/webtest/doc/info/manual/excelExamples/verifyCellSumExample.txt
+END
+structureFilterOutput.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10151/trunk/webtest/doc/info/manual/excelExamples/structureFilterOutput.txt
+END
+sampleSimpleUsageExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10151/trunk/webtest/doc/info/manual/excelExamples/sampleSimpleUsageExample.txt
+END
+verifyCellValueExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10151/trunk/webtest/doc/info/manual/excelExamples/verifyCellValueExample.txt
+END

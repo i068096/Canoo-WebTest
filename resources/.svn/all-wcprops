@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/125172/trunk/webtest/resources
+END
+testExistingNodes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7600/trunk/webtest/resources/testExistingNodes.xml
+END
+showHide.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/27769/trunk/webtest/resources/showHide.js
+END
+testNoRootNode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/7600/trunk/webtest/resources/testNoRootNode.xml
+END
+responseBrowserCommands.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/13137/trunk/webtest/resources/responseBrowserCommands.html
+END
+WebTestReportSummaryExtractor.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/75267/trunk/webtest/resources/WebTestReportSummaryExtractor.xsl
+END
+webtestsRunner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/29226/trunk/webtest/resources/webtestsRunner.xml
+END
+responseBrowserPreviews.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/10326/trunk/webtest/resources/responseBrowserPreviews.html
+END
+pom.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/10332/trunk/webtest/resources/pom.xsl
+END
+report.css
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/25795/trunk/webtest/resources/report.css
+END
+testWrongRootNode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7600/trunk/webtest/resources/testWrongRootNode.xml
+END
+responseBrowser.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/10326/trunk/webtest/resources/responseBrowser.html
+END
+WebTestReportOverview.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/75267/trunk/webtest/resources/WebTestReportOverview.xsl
+END
+WebTestOverview2JUnit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/45214/trunk/webtest/resources/WebTestOverview2JUnit.xsl
+END
+sorttable.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/16063/trunk/webtest/resources/sorttable.js
+END
+index-testsRunning.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/74694/trunk/webtest/resources/index-testsRunning.html
+END
+results.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/9996/trunk/webtest/resources/results.dtd
+END
+responseBrowser.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/16063/trunk/webtest/resources/responseBrowser.js
+END
+WebTestReport.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/74687/trunk/webtest/resources/WebTestReport.xsl
+END

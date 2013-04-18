@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/91860/trunk/webtest/src/main/java/com/canoo/webtest/interfaces
+END
+IComputeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/interfaces/IComputeValue.java
+END
+ITableLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/15684/trunk/webtest/src/main/java/com/canoo/webtest/interfaces/ITableLocator.java
+END
+IContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28823/trunk/webtest/src/main/java/com/canoo/webtest/interfaces/IContentFilter.java
+END
+IBrowserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28823/trunk/webtest/src/main/java/com/canoo/webtest/interfaces/IBrowserAction.java
+END
+IPropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/interfaces/IPropertyHandler.java
+END
+IWebtestCustomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/57363/trunk/webtest/src/main/java/com/canoo/webtest/interfaces/IWebtestCustomizer.java
+END
+IConnectionInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/interfaces/IConnectionInitializer.java
+END
+IStepWithTableLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/interfaces/IStepWithTableLocator.java
+END
+IStepSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/interfaces/IStepSequence.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/interfaces/package.html
+END

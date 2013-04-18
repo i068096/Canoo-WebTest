@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/64009/trunk/webtest/src/test/resources/com/canoo/ant/table
+END
+dataDriven.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/64009/trunk/webtest/src/test/resources/com/canoo/ant/table/dataDriven.xml
+END
+Test.xls
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/56841/trunk/webtest/src/test/resources/com/canoo/ant/table/Test.xls
+END
+ByDefaults.xls
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/56841/trunk/webtest/src/test/resources/com/canoo/ant/table/ByDefaults.xls
+END
+Depends.xls
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/56841/trunk/webtest/src/test/resources/com/canoo/ant/table/Depends.xls
+END
+Mixed.xls
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/56841/trunk/webtest/src/test/resources/com/canoo/ant/table/Mixed.xls
+END
+format.xls
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/56841/trunk/webtest/src/test/resources/com/canoo/ant/table/format.xls
+END
+simple.xls
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/56841/trunk/webtest/src/test/resources/com/canoo/ant/table/simple.xls
+END

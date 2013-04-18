@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/90390/trunk/webtest/selftests/webapp
+END
+setCookie.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/10606/trunk/webtest/selftests/webapp/setCookie.jsp
+END
+frame_right.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/10606/trunk/webtest/selftests/webapp/frame_right.jsp
+END
+testDocPermissionsNoPrint.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/26894/trunk/webtest/selftests/webapp/testDocPermissionsNoPrint.pdf
+END
+testDocForms.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26894/trunk/webtest/selftests/webapp/testDocForms.pdf
+END
+JavaScriptTemperature.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/26907/trunk/webtest/selftests/webapp/JavaScriptTemperature.html
+END
+xpath.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/26907/trunk/webtest/selftests/webapp/xpath.html
+END
+applet.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/48523/trunk/webtest/selftests/webapp/applet.html
+END
+badlyFormattedHtml.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/69669/trunk/webtest/selftests/webapp/badlyFormattedHtml.html
+END
+postApplet.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/26907/trunk/webtest/selftests/webapp/postApplet.html
+END
+form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/10606/trunk/webtest/selftests/webapp/form.jsp
+END
+frameset.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/11099/trunk/webtest/selftests/webapp/frameset.jsp
+END
+visitCount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/10606/trunk/webtest/selftests/webapp/visitCount.jsp
+END
+ReadMe.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/26894/trunk/webtest/selftests/webapp/ReadMe.pdf
+END
+retry.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/26907/trunk/webtest/selftests/webapp/retry.html
+END
+nestedFrameset.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/26907/trunk/webtest/selftests/webapp/nestedFrameset.html
+END
+setSelectFieldNoValueAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/26907/trunk/webtest/selftests/webapp/setSelectFieldNoValueAttribute.html
+END
+disabledElementPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/26907/trunk/webtest/selftests/webapp/disabledElementPage.html
+END
+seibertec.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/26894/trunk/webtest/selftests/webapp/seibertec.jpg
+END
+browserVersion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/57461/trunk/webtest/selftests/webapp/browserVersion.jsp
+END
+testDocFormsSecure.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/26894/trunk/webtest/selftests/webapp/testDocFormsSecure.pdf
+END
+favourite.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/10606/trunk/webtest/selftests/webapp/favourite.jsp
+END
+frame_left.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/10606/trunk/webtest/selftests/webapp/frame_left.jsp
+END
+prodSimulation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/10606/trunk/webtest/selftests/webapp/prodSimulation.jsp
+END
+JavaScriptErrors.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/57491/trunk/webtest/selftests/webapp/JavaScriptErrors.html
+END
+selectWebClient.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/15095/trunk/webtest/selftests/webapp/selectWebClient.jsp
+END
+testDocPermissionsOnlyFillIn.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/26894/trunk/webtest/selftests/webapp/testDocPermissionsOnlyFillIn.pdf
+END
+repeat.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/25776/trunk/webtest/selftests/webapp/repeat.jsp
+END
+ok.gif
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/26894/trunk/webtest/selftests/webapp/ok.gif
+END
+hiddenInputFieldPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/26907/trunk/webtest/selftests/webapp/hiddenInputFieldPage.html
+END
+JavaScriptWithError.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/26907/trunk/webtest/selftests/webapp/JavaScriptWithError.html
+END
+mockdiskadmin.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/26907/trunk/webtest/selftests/webapp/mockdiskadmin.html
+END
+passwordDummy.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/26907/trunk/webtest/selftests/webapp/passwordDummy.html
+END
+WebTest.doc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/10606/trunk/webtest/selftests/webapp/WebTest.doc
+END
+inputFieldAttributePage.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/26907/trunk/webtest/selftests/webapp/inputFieldAttributePage.html
+END
+simpleDialogExample.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/29193/trunk/webtest/selftests/webapp/simpleDialogExample.html
+END
+setFileField.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/16192/trunk/webtest/selftests/webapp/setFileField.jsp
+END
+dummy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/10606/trunk/webtest/selftests/webapp/dummy.xml
+END
+JavaScriptWithUnknownFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/26907/trunk/webtest/selftests/webapp/JavaScriptWithUnknownFunction.html
+END
+trickyform.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/26907/trunk/webtest/selftests/webapp/trickyform.html
+END
+linkpage.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/26907/trunk/webtest/selftests/webapp/linkpage.html
+END
+selectWindowPopup.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/26907/trunk/webtest/selftests/webapp/selectWindowPopup.html
+END
+linkReportMainPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/26907/trunk/webtest/selftests/webapp/linkReportMainPage.html
+END
+DetectJavaScript.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/26907/trunk/webtest/selftests/webapp/DetectJavaScript.html
+END
+not.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/26907/trunk/webtest/selftests/webapp/not.html
+END
+autoRefresh1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/31067/trunk/webtest/selftests/webapp/autoRefresh1.jsp
+END
+autoRefresh2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/10606/trunk/webtest/selftests/webapp/autoRefresh2.jsp
+END
+setSelectFieldOnchange.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/26907/trunk/webtest/selftests/webapp/setSelectFieldOnchange.html
+END
+clickButton.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28669/trunk/webtest/selftests/webapp/clickButton.jsp
+END
+numbers.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/26907/trunk/webtest/selftests/webapp/numbers.html
+END
+selectWindowMain.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/26907/trunk/webtest/selftests/webapp/selectWindowMain.html
+END
+mouseEvents.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/56541/trunk/webtest/selftests/webapp/mouseEvents.html
+END
+pdf-index.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/26907/trunk/webtest/selftests/webapp/pdf-index.html
+END
+i18n.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/26907/trunk/webtest/selftests/webapp/i18n.html
+END
+SimpleJavaScript.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/26907/trunk/webtest/selftests/webapp/SimpleJavaScript.html
+END
+testDocBookmarks.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/26894/trunk/webtest/selftests/webapp/testDocBookmarks.pdf
+END
+colorChange.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/72442/trunk/webtest/selftests/webapp/colorChange.html
+END
+testDocFonts.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26894/trunk/webtest/selftests/webapp/testDocFonts.pdf
+END
+newPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/26907/trunk/webtest/selftests/webapp/newPage.html
+END
+dummy.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/26907/trunk/webtest/selftests/webapp/dummy.html
+END
+autoSelectForm.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/26907/trunk/webtest/selftests/webapp/autoSelectForm.html
+END
+verifyContent.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/26907/trunk/webtest/selftests/webapp/verifyContent.html
+END
+testDocPermissionsAll.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/26894/trunk/webtest/selftests/webapp/testDocPermissionsAll.pdf
+END
+testExcel.xls
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/10606/trunk/webtest/selftests/webapp/testExcel.xls
+END
+clickButtonNoForm.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/26907/trunk/webtest/selftests/webapp/clickButtonNoForm.html
+END
+JavaScript.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/26907/trunk/webtest/selftests/webapp/JavaScript.html
+END
+error500.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/10606/trunk/webtest/selftests/webapp/error500.jsp
+END
+trafficlight.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/26907/trunk/webtest/selftests/webapp/trafficlight.html
+END
+links.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/10606/trunk/webtest/selftests/webapp/links.jsp
+END
+testDocCrystal.xls
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/10606/trunk/webtest/selftests/webapp/testDocCrystal.xls
+END
+setSelectFieldError.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/26907/trunk/webtest/selftests/webapp/setSelectFieldError.html
+END
+order.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/26907/trunk/webtest/selftests/webapp/order.html
+END
+multiFormPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/26907/trunk/webtest/selftests/webapp/multiFormPage.html
+END
+testDocLinks.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26894/trunk/webtest/selftests/webapp/testDocLinks.pdf
+END

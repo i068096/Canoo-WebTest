@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/25776/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/control
+END
+IfStep-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10393/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/control/IfStep-syntax-post.xml
+END
+IfStep-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10389/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/control/IfStep-syntax-pre.xml
+END
+TimedGroupStep-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/9436/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/control/TimedGroupStep-syntax-post.xml
+END
+NotStep-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/9409/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/control/NotStep-syntax-post.xml
+END
+RepeatStep-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/25776/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/control/RepeatStep-syntax-post.xml
+END
+NotStep-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9409/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/control/NotStep-syntax-pre.xml
+END
+RepeatStep-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/25776/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/control/RepeatStep-syntax-pre.xml
+END
+RetryStep-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9464/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/control/RetryStep-syntax-post.xml
+END
+RetryStep-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9420/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/control/RetryStep-syntax-pre.xml
+END

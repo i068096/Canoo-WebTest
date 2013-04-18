@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/9905/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/store
+END
+StorePropertyStep-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/9860/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/store/StorePropertyStep-syntax-post.xml
+END
+StorePropertyStep-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/9860/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/store/StorePropertyStep-syntax-pre.xml
+END
+StoreXPath-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9464/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/store/StoreXPath-syntax-post.xml
+END
+StoreXPath-syntax-pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/9451/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/store/StoreXPath-syntax-pre.xml
+END
+StoreRegExMatch-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/9451/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/store/StoreRegExMatch-syntax-post.xml
+END
+StoreHeader-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9905/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/store/StoreHeader-syntax-post.xml
+END
+StoreCookie-syntax-post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9905/trunk/webtest/doc/info/manual/com/canoo/webtest/steps/store/StoreCookie-syntax-post.xml
+END

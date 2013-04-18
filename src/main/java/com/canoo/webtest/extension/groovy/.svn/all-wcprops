@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/63947/trunk/webtest/src/main/java/com/canoo/webtest/extension/groovy
+END
+GroovyStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/63947/trunk/webtest/src/main/java/com/canoo/webtest/extension/groovy/GroovyStep.java
+END
+GroovyInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/31807/trunk/webtest/src/main/java/com/canoo/webtest/extension/groovy/GroovyInvoker.java
+END
+MacroStepBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/15245/trunk/webtest/src/main/java/com/canoo/webtest/extension/groovy/MacroStepBuilder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/15156/trunk/webtest/src/main/java/com/canoo/webtest/extension/groovy/package.html
+END
